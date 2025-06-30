@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sky Wei and I'm a Marketing Specialist, from Bay Area</p>
+<p align="left">My name is Sky Wei and I'm a Web Development and Marketing Specialist, from Bay Area</p>
 
 ###
 
