@@ -2,7 +2,7 @@
 
 <p align="left">
   Full-stack developer & CS student at <b>San José State University</b> · Bay Area, CA<br>
-  Co-founder of <a href="https://paimo.app">PAiMo</a> — a badminton club management platform with real users worldwide 🏸
+  Co-founder of <a href="https://paimo.io">PAiMo</a> — a badminton club management platform with real users worldwide 🏸
 </p>
 
 ## About me
