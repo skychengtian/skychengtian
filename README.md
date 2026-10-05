@@ -18,6 +18,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **PAiMo** | Badminton club management SaaS — events, real-time match scoring, player skill tracking, analytics dashboards | Next.js · Node.js · Vercel |
+| **[a11y-widget](https://github.com/a11y-widget/a11y-widget)** | Drop-in accessibility panel for any website — text size, contrast, reading aids, read-aloud in 4 languages. One script, no dependencies; WordPress plugin & Shopify snippet. [Live demo](https://a11ywidget.vercel.app) | Vanilla JS · WordPress · Vercel |
 | **Client sites** | Custom SEO-friendly websites for media, retail & education clients | Next.js · React · WordPress |
 
 ## I code with
